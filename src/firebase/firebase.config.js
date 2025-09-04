@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 export const firebaseConfig = {
-  apiKey: "AIzaSyA9yfP7qtR3thJeC8bUiYkjPoXNaSfNjm8",
-  authDomain: "buy-buddies-58b58.firebaseapp.com",
-  projectId: "buy-buddies-58b58",
-  storageBucket: "buy-buddies-58b58.firebasestorage.app",
-  messagingSenderId: "109173401929",
-  appId: "1:109173401929:web:cd8059d7521992e7959298"
+  apiKey: "YoUR_API_KEY",
+  authDomain: "YOUR_authDomain",
+  projectId: "YOUR_projectId",
+  storageBucket: "YOUR_storageBucket",
+  messagingSenderId: "YOUR_ID",
+  appId: "YOUR_API_id"
 };
 
 // Initialize Firebase
